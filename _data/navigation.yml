@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications (security studies)"
+  - title: "Publications (security)"
     url: /publications_security/
 
-  - title: "Publications (materials physics)"
+  - title: "Publications (physics)"
     url: /publications_physics/
     
   - title: "CV"
