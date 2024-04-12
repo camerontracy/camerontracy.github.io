@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Cameron Tracy"
+title                    : "Dr. Cameron Lee Tracy"
 title_separator          : "-"
-name                     : &name "Dr. Cameron Tracy"
+name                     : &name "Dr. Cameron Lee Tracy"
 description              : &description "Research Scholar at Stanford University's Center for International Security and Cooperation (CISAC)"
 url                      : https://camerontracy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "camerontracy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Cameron Tracy"
-  bio              : "Research Scholar at Stanford University's Center for International Security and Cooperation (CISAC), expert in technology and international security"
-  location         : "Stanford, CA"
-  employer         : "Stanford University"
+  name             : "Dr. Cameron Lee Tracy"
+  bio              : "Research Scholar, Stanford University, Center for International Security and Cooperation (CISAC)"
+  location         : 
+  employer         : 
   url              : # URL
   email            : "cltracy@stanford.edu" 
 
@@ -63,7 +63,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Replace this with your X / Twitter handle
+  twitter          : "https://twitter.com/cameronltracy" # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
