@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Cameron Lee Tracy"
+title                    : "Cameron Tracy"
 title_separator          : "-"
 name                     : &name "Dr. Cameron Lee Tracy"
 description              : &description "Research Scholar at Stanford University's Center for International Security and Cooperation (CISAC)"
