@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Publications (security studies)"
+    url: /publications_security/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Publications (materials physics)"
+    url: /publications_physics/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Press"
+    url: /press/
     
   - title: "Guide"
     url: /markdown/
