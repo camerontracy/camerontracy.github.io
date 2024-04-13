@@ -5,7 +5,7 @@ permalink: /press/
 author_profile: true
 ---
 
-[Is Kinzhal merely a dagger of the mind??](https://aviationweek.com/defense-space/missile-defense-weapons/weekly-debrief-kinzhal-merely-dagger-mind), _Aviation Week_, 8 May 2023
+[Is Kinzhal merely a dagger of the mind?](https://aviationweek.com/defense-space/missile-defense-weapons/weekly-debrief-kinzhal-merely-dagger-mind), _Aviation Week_, 8 May 2023
 
 [Is the U.S. losing the hypersonic missile race?](https://theweek.com/us-military/1013629/is-the-us-losing-the-hypersonic-missile-race), _The Week_, 18 May 2022
 
@@ -19,7 +19,7 @@ author_profile: true
 
 [Have we witnessed another Sputnik moment?](https://www.youtube.com/watch?v=9SxwngVjEEI), _CNN_, 31 Oct 2021
 
-[It’s not a ‘Sputnik moment’ and we should not feed Cold War paranoia], _Washington Post_, 28 Oct 2021
+[It’s not a ‘Sputnik moment’ and we should not feed Cold War paranoia](https://www.washingtonpost.com/opinions/2021/10/28/its-not-sputnik-moment-we-should-not-feed-cold-war-paranoia/), _Washington Post_, 28 Oct 2021
 
 [The real reason the Pentagon is sounding the alarm over China's hypersonic missile](https://theweek.com/politics/1006495/the-military-is-exaggerating-the-chinese-military-threat), _The Week_, 27 Oct 2021
 
@@ -53,7 +53,7 @@ author_profile: true
 
 [Hypersonic superweapons are a mirage, new analysis says](https://www.nytimes.com/2021/01/15/science/hypersonic-missile-weapons.html), _New York Times_, 15 Jan 2021
 
-[Let’s make a deal: How to mitigate the risk of hypersonic weapons](https://www.justsecurity.org/70025/lets-make-a-deal-how-to-mitigate-the-risk-of-hypersonic-weapons/), 6 May 2020
+[Let’s make a deal: How to mitigate the risk of hypersonic weapons](https://www.justsecurity.org/70025/lets-make-a-deal-how-to-mitigate-the-risk-of-hypersonic-weapons/), _Just Security_ 6 May 2020
 
 [High pressure key to more advanced metal alloys](https://www.materialsperformance.com/articles/material-selection-design/2017/08/high-pressure-key-to-more-advanced-metal-alloys), _Materials Performance_, 4 May 2020
 
