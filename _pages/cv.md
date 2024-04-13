@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+test
 <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=http://camerontracy.github.io/files/CV 16 Feb 24.pdf" width="500" height="375">
 
