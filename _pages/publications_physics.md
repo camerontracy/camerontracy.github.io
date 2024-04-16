@@ -40,7 +40,7 @@ Trautmann, M. Lang, “Grain size effects on irradiated CeO<sub>2</sub>, ThO<sub
 (2018)
 
 S. Park, D.R. Rittman, C.L. Tracy, K.W. Chapman, F. Zhang, C. Park, S.N. Tkachev, E. O’Quinn, J.
-Shamblin, M. Lang, W.L. Mao, R.C. Ewing, “A<sub>2</sub>TiO<sub>5</sub> (A = Dy, Gd, Er, Yb) at high pressure,” _Inorganic
+Shamblin, M. Lang, W.L. Mao, R.C. Ewing, “[A<sub>2</sub>TiO<sub>5</sub> (A = Dy, Gd, Er, Yb) at high pressure](https://camerontracy.github.io/files/A2TiO5_(A_=_Dy,_Gd,_Er,_Yb)_at_High_Pressure.pdf),” _Inorganic
 Chemistry_ 57, 2269 (2018)
 
 S. Park, C.L. Tracy, F. Zhang, C. Park, C. Trautmann, S.N. Tkachev, M. Lang, W.L. Mao, R.C. Ewing,
