@@ -9,7 +9,7 @@ E.C. O’Quinn, C.L. Tracy, W.F. Cureton, R. Sachan, J.C. Neuefeind, C. Trautman
 Chemistry A_ 9, 16982 (2021)
 
 A.P. Solomon, C.L. Tracy, E.C. O’Quinn, D. Severin, M.K. Lang, “Transformations to amorphous and
-X-type phases in swift heavy ion-irradiated Ln2O3 and Mn2O3,” _Journal of Applied Physics_ 129, 225903
+X-type phases in swift heavy ion-irradiated Ln<sub>2</sub>O3 and Mn2O3,” _Journal of Applied Physics_ 129, 225903
 (2021)
 
 W.F. Cureton, C.L. Tracy, M. Lang, “Review of swift heavy ion irradiation effects in CeO2,” _Quantum
