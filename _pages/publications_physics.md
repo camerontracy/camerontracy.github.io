@@ -96,7 +96,7 @@ C.L. Tracy, J. Shamblin, S. Park, F. Zhang, C. Trautmann, M. Lang, R.C. Ewing, �
 irradiation,” _Physical Review B_ 94, 064102 (2016)
 
 J. Shamblin, C.L. Tracy, R.C. Ewing, F. Zhang, W. Li, C. Trautmann, M. Lang, “[Structural response of
-titanate pyrochlores to swift heavy ion irradiation](Structural_response_of_titanate_pyrochlores_to_swift_heavy_ion_irradiation.pdf),” _Acta Materialia_ 117, 207 (2016)
+titanate pyrochlores to swift heavy ion irradiation](https://camerontracy.github.io/files/Structural_response_of_titanate_pyrochlores_to_swift_heavy_ion_irradiation.pdf),” _Acta Materialia_ 117, 207 (2016)
 
 J. Shamblin, M. Feygenson, J. Neuefeind, C.L. Tracy, F. Zhang, S. Finkeldei, D. Bosbach, H. Zhou, R.C.
 Ewing, M. Lang, “Probing disorder in isometric pyrochlore and related complex oxides,” _Nature Materials_
