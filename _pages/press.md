@@ -57,6 +57,10 @@ author_profile: true
 
 [High pressure key to more advanced metal alloys](https://www.materialsperformance.com/articles/material-selection-design/2017/08/high-pressure-key-to-more-advanced-metal-alloys), _Materials Performance_, 4 May 2020
 
+[For stronger metal alloy, move atoms around with high pressure](https://www.electrochem.org/ecsnews/stronger-metal-alloy-move-atoms-around-high-pressure/), _The Electrochemical Society_, 1 Jun 2017
+
 [Buried nuclear waste risky, say Stanford experts](https://news.stanford.edu/2016/01/15/waste-nuclear-material-011516/), _Stanford News_, 15 Jan 2016
+
+[Controlling the adverse effects of radiation could change nuclear fuel](https://www.homelandsecuritynewswire.com/dr20150311-controlling-the-adverse-effects-of-radiation-could-change-nuclear-fuel), _Homeland Security News Wire_, 11 Mar 2015
 
 
