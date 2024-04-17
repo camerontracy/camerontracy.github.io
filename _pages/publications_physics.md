@@ -27,7 +27,7 @@ Mao, R.C. Ewing, “[Phase transformations of Al-bearing high-entropy alloys Alx
 
 W.F. Cureton, R.I. Palomares, C.L. Tracy, E.C. O’Quinn, J. Walters, M. Zdorovets, R.C. Ewing, M.
 Toulemonde, M. Lang, “[Effects of irradiation temperature on the response of CeO<sub>2</sub>, ThO<sub>2</sub>, and UO<sub>2</sub> to
-highly ionizing radiation](https://camerontracy.github.io/files/),” _Journal of Nuclear Materials_ 525, 83 (2019)
+highly ionizing radiation](https://camerontracy.github.io/files/Effects_of_irradiation_temperature_on_the_response_of_CeO2%2C_ThO2%2C_and_UO2_to_highly_ionizing_radiation.pdf),” _Journal of Nuclear Materials_ 525, 83 (2019)
 
 C.L. Tracy, C. Chen, S. Park, M.L. Davisson, R.C. Ewing, “[Measurement of UO<sub>2</sub> surface oxidation using
 grazing-incidence x-ray diffraction: Implications for nuclear forensics](https://camerontracy.github.io/files/),” _Journal of Nuclear Materials_ 502, 68
