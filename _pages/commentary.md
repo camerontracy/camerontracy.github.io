@@ -17,7 +17,7 @@ author_profile: true
 
 [Why hypersonic weapons cannot live up to their hype](https://thehill.com/opinion/national-security/536754-why-hypersonic-weapons-cannot-live-up-to-their-hype/), _The Hill_, 3 Feb 2021
 
-[Don't believe the hyper about hypersonic missiles](https://spectrum.ieee.org/hypersonic-missiles-are-being-hyped), _IEEE Spectrum_, 5 Feb 2021
+[Don't believe the hype about hypersonic missiles](https://spectrum.ieee.org/hypersonic-missiles-are-being-hyped), _IEEE Spectrum_, 5 Feb 2021
 
 [Is the United States planning a nuclear-armed, intercontinental-range, hypersonic missile?](https://blog.ucsusa.org/ctracy/is-the-united-states-planning-a-nuclear-armed-intercontinental-range-hypersonic-missile/), _The Equation_, 18 Sep 2020
   
