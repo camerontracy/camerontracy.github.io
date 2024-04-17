@@ -5,6 +5,7 @@ permalink: /publications_security/
 author_profile: true
 ---
 
+
 D. Wright, C.L. Tracy, “[Hypersonic weapons: Vulnerability to missile defenses and comparison to MaRVs,](https://camerontracy.github.io/files/Hypersonic_Weapons_Vulnerability_to_Missile_Defenses_and_Comparison_to_MaRVs.pdf)”
 _Science & Global Security_, 31, 68 (2023)
 
