@@ -23,7 +23,7 @@ author_profile: true
 
 [The real reason the Pentagon is sounding the alarm over China's hypersonic missile](https://theweek.com/politics/1006495/the-military-is-exaggerating-the-chinese-military-threat), _The Week_, 27 Oct 2021
 
-[What China’s hypersonic test lLaunch reveals about the global arms race](https://www.ft.com/content/f647d654-e870-4829-8dc2-90c98985c034), _Financial Times_, 21 Oct 2021
+[What China’s hypersonic test launch reveals about the global arms race](https://www.ft.com/content/f647d654-e870-4829-8dc2-90c98985c034), _Financial Times_, 21 Oct 2021
 
 [Les missiles hypersoniques, la nouvelle coqueluche des armées mondiales](https://www.journaldemontreal.com/2021/10/05/les-missiles-hypersoniques-la-nouvelle-coqueluche-des-armees-mondiales), _Le Journal de Montréal_, 5 Oct 2021
 
