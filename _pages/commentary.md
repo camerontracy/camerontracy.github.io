@@ -7,6 +7,8 @@ author_profile: true
 
 [Drag race: hypersonic threats are slow enough for US missile defenses](https://www.defensenews.com/opinion/2023/12/08/drag-race-hypersonic-threats-are-slow-enough-for-us-missile-defenses/), _Defense News_, 8 Dec 2023
 
+[De-hyping China's missile test](https://blog.ucsusa.org/guest-commentary/de-hyping-chinas-missile-test/),_The Equation_, 21 Oct 2021
+
 [The physics and hype of hypersonic weapons](https://www.scientificamerican.com/article/the-physics-and-hype-of-hypersonic-weapons/), _Scientific American_, 1 Aug 2021
 
 [How do hypersonic weapons affect US security?](https://blog.ucsusa.org/ctracy/how-do-hypersonic-weapons-affect-us-security/), _The Equation_, 19 July 2021
