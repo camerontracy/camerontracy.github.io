@@ -16,5 +16,3 @@ I teach undergraduate courses on research and writing in international security,
 
 Policy-relevance is a major component of my scholarship. I have advised and briefed policymakers across a range of institutions, including the US Congress, the United Nations Disarmament and International Security Committee, and the UK Ministry of Defence.
 
-Prior to my current position, I have worked at Harvard University’s [Belfer Center for Science and International Affairs](https://www.belfercenter.org/), the [Union of Concerned Scientists](https://www.ucsusa.org/), and [Los Alamos National Laboratory](https://www.lanl.gov/).
-
