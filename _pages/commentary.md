@@ -5,6 +5,8 @@ permalink: /commentary/
 author_profile: true
 ---
 
+[Hypersonic weapons are mediocre. It’s time to stop wasting money on them.](https://thebulletin.org/2024/03/hypersonic-weapons-are-mediocre-its-time-to-stop-wasting-money-on-them/), _Bulletin of the Atomic Scientists_, 12 Mar 2024
+
 [Drag race: hypersonic threats are slow enough for US missile defenses](https://www.defensenews.com/opinion/2023/12/08/drag-race-hypersonic-threats-are-slow-enough-for-us-missile-defenses/), _Defense News_, 8 Dec 2023
 
 [De-hyping China's missile test](https://blog.ucsusa.org/guest-commentary/de-hyping-chinas-missile-test/),_The Equation_, 21 Oct 2021
