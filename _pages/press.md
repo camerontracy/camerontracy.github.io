@@ -7,6 +7,10 @@ author_profile: true
 
 [Is Kinzhal merely a dagger of the mind?](https://aviationweek.com/defense-space/missile-defense-weapons/weekly-debrief-kinzhal-merely-dagger-mind), _Aviation Week_, 8 May 2023
 
+['More dangerous' than the Kinzhal? Russia is relying on longer-range cruise missiles](https://www.merkur.de/politik/waffe-ukraine-krieg-putin-raketen-marschflugkoerper-hyperschall-93010803.html), _Münchner Merkur_, 15 Apr 2024
+
+[Por qué la primera prueba de un misil hipersónico de EE. UU. en el Asia-Pacífico es una advertencia a China](https://elcomercio.pe/mundo/eeuu/estados-unidos-prueba-un-misil-hipersonico-en-el-asia-pacifico-en-una-clara-advertencia-a-china-que-es-un-misil-hipersonico-que-paises-tienen-misiles-hipersonicos-guam-rusia-usa-joe-biden-corea-del-norte-mar-de-china-meridional-bombardero-b-52-islas-marshall-arrw-avangard-noticia/), _El Comercio_, 22 Mar 2024
+
 [Is the U.S. losing the hypersonic missile race?](https://theweek.com/us-military/1013629/is-the-us-losing-the-hypersonic-missile-race), _The Week_, 18 May 2022
 
 [Der hype um den hyperschall](https://www.spektrum.de/news/hyperschallwaffen-der-hype-um-den-hyperschall/1935553), _Spektrum der Wissenschaft_, 21 Mar 2022
@@ -15,11 +19,13 @@ author_profile: true
 
 [Hypersonic missiles could start World War III — but that’s not the biggest threat they pose](https://www.businessinsider.com/china-and-russia-have-deployed-hypersonic-missiles-2021-12), _Business Insider_, 16 Dec 2021
 
+[中國研發高超音速導彈技術：背後的三大疑問和兩大隱憂](https://www.bbc.com/zhongwen/trad/world-59262556), _BBC News Chinese_, 19 Nov 2021
+
 [What are hypersonic missiles and why do they matter?](https://www.bbc.co.uk/programmes/w3ct1z2w), _BBC_, 11 Nov 2021
 
 [Have we witnessed another Sputnik moment?](https://www.youtube.com/watch?v=9SxwngVjEEI), _CNN_, 31 Oct 2021
 
-[It’s not a ‘Sputnik moment’ and we should not feed Cold War paranoia](https://www.washingtonpost.com/opinions/2021/10/28/its-not-sputnik-moment-we-should-not-feed-cold-war-paranoia/), _Washington Post_, 28 Oct 2021
+[It’s not a 'Sputnik moment' and we should not feed Cold War paranoia](https://www.washingtonpost.com/opinions/2021/10/28/its-not-sputnik-moment-we-should-not-feed-cold-war-paranoia/), _Washington Post_, 28 Oct 2021
 
 [The real reason the Pentagon is sounding the alarm over China's hypersonic missile](https://theweek.com/politics/1006495/the-military-is-exaggerating-the-chinese-military-threat), _The Week_, 27 Oct 2021
 
