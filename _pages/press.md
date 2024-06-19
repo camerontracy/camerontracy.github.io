@@ -5,11 +5,11 @@ permalink: /press/
 author_profile: true
 ---
 
-[Is Kinzhal merely a dagger of the mind?](https://aviationweek.com/defense-space/missile-defense-weapons/weekly-debrief-kinzhal-merely-dagger-mind), _Aviation Week_, 8 May 2023
-
-['More dangerous' than the Kinzhal? Russia is relying on longer-range cruise missiles](https://www.merkur.de/politik/waffe-ukraine-krieg-putin-raketen-marschflugkoerper-hyperschall-93010803.html), _Münchner Merkur_, 15 Apr 2024
+['Gefährlicher' als die Kinschal? Russland setzt auf Marschflugkörper mit größerer Reichweite](https://www.merkur.de/politik/waffe-ukraine-krieg-putin-raketen-marschflugkoerper-hyperschall-93010803.html), _Münchner Merkur_, 15 Apr 2024
 
 [Por qué la primera prueba de un misil hipersónico de EE. UU. en el Asia-Pacífico es una advertencia a China](https://elcomercio.pe/mundo/eeuu/estados-unidos-prueba-un-misil-hipersonico-en-el-asia-pacifico-en-una-clara-advertencia-a-china-que-es-un-misil-hipersonico-que-paises-tienen-misiles-hipersonicos-guam-rusia-usa-joe-biden-corea-del-norte-mar-de-china-meridional-bombardero-b-52-islas-marshall-arrw-avangard-noticia/), _El Comercio_, 22 Mar 2024
+
+[Is Kinzhal merely a dagger of the mind?](https://aviationweek.com/defense-space/missile-defense-weapons/weekly-debrief-kinzhal-merely-dagger-mind), _Aviation Week_, 8 May 2023
 
 [Is the U.S. losing the hypersonic missile race?](https://theweek.com/us-military/1013629/is-the-us-losing-the-hypersonic-missile-race), _The Week_, 18 May 2022
 
