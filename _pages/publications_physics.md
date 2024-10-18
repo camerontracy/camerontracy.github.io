@@ -92,10 +92,10 @@ Ewing, “[Structure and bulk modulus of Ln-doped UO<sub>2</sub> (Ln = La, Nd) a
 Materials_ 490, 28 (2017)
 
 F.X. Zhang, C.L. Tracy, J. Shamblin, R.I. Palomares, M. Lang, S. Park, C. Park, S. Tkachev, R.C. Ewing,
-“[Pressure-induced phase transitions of β-type pyrochlore CsTaWO<sub>6</sub>,” _RSC Advances_ 6](https://camerontracy.github.io/files/Pressure-induced_phase_transitions_of_b-type_pyrochlore_CsTaWO6.pdf), 94287 (2016)
+“[Pressure-induced phase transitions of β-type pyrochlore CsTaWO<sub>6</sub>](https://camerontracy.github.io/files/Pressure-induced_phase_transitions_of_b-type_pyrochlore_CsTaWO6.pdf),” _RSC Advances_ 6, 94287 (2016)
 
 C.L. Tracy, J. Shamblin, S. Park, F. Zhang, C. Trautmann, M. Lang, R.C. Ewing, “[Role of composition, bond covalency, and short-range order in the disordering of stannate pyrochlores by swift heavy ion
-irradiation,” _Physical Review B_ 94](https://camerontracy.github.io/files/Role_of_composition%2C_bond_covalency%2C_and_short-range_order_in_the_disordering_of_stannate_pyrochlores_by_swift_heavy_ion_irradiation__.pdf), 064102 (2016)
+irradiation](https://camerontracy.github.io/files/Role_of_composition%2C_bond_covalency%2C_and_short-range_order_in_the_disordering_of_stannate_pyrochlores_by_swift_heavy_ion_irradiation__.pdf),” _Physical Review B_ 94, 064102 (2016)
 
 J. Shamblin, C.L. Tracy, R.C. Ewing, F. Zhang, W. Li, C. Trautmann, M. Lang, “[Structural response of
 titanate pyrochlores to swift heavy ion irradiation](https://camerontracy.github.io/files/Structural_response_of_titanate_pyrochlores_to_swift_heavy_ion_irradiation.pdf),” _Acta Materialia_ 117, 207 (2016)
