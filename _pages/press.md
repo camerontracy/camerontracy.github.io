@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Press"
+title: "Press coverage"
 permalink: /press/
 author_profile: true
 ---
