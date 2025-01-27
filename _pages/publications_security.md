@@ -5,11 +5,13 @@ permalink: /publications_security/
 author_profile: true
 ---
 
-C.L. Tracy, "[Weapons design, engineering ethics, and the duty to inform: A case study on U.S. hypersonic missile development](https://camerontracy.github.io/files/Weapons_Design_Engineering_Ethics_and_the_Duty_to_Inform_A_Case_Study_on_U.S._Hypersonic_Missile_Development.pdf)," _Technology and Society_ (in press)
+
 
 D. Wright, C.L. Tracy, "[Hypersonic cruise missiles](https://camerontracy.github.io/files/Hypersonic_cruise_missiles.pdf)," _Science & Global Security_ (in press)
 
 C.L. Tracy, “[Sociotechnical risks posed by the geologic disposal of weapons plutonium](https://camerontracy.github.io/files/Sociotechnical_risks_posed_by_the_geologic_disposal_of_weapons_plutonium.pdf),” _Bulletin of the Atomic Scientists_ 81, 36 (2025)
+
+C.L. Tracy, "[Weapons design, engineering ethics, and the duty to inform: A case study on U.S. hypersonic missile development](https://camerontracy.github.io/files/Weapons_Design_Engineering_Ethics_and_the_Duty_to_Inform_A_Case_Study_on_U.S._Hypersonic_Missile_Development.pdf)," _Technology and Society_ 43, 83 (2024)
 
 D. Wright, C.L. Tracy, “[Hypersonic weapons: Vulnerability to missile defenses and comparison to MaRVs](https://camerontracy.github.io/files/Hypersonic_Weapons_Vulnerability_to_Missile_Defenses_and_Comparison_to_MaRVs.pdf),”
 _Science & Global Security_, 31, 68 (2023)
