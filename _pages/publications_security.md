@@ -7,17 +7,18 @@ author_profile: true
 
 
 
-D. Wright, C.L. Tracy, "[Hypersonic cruise missiles](https://camerontracy.github.io/files/Hypersonic_cruise_missiles.pdf)," _Science & Global Security_ (in press)
+
 
 C.L. Tracy, “[Sociotechnical risks posed by the geologic disposal of weapons plutonium](https://camerontracy.github.io/files/Sociotechnical_risks_posed_by_the_geologic_disposal_of_weapons_plutonium.pdf),” _Bulletin of the Atomic Scientists_ 81, 36 (2025)
 
 C.L. Tracy, "[Weapons design, engineering ethics, and the duty to inform: A case study on U.S. hypersonic missile development](https://camerontracy.github.io/files/Weapons_Design_Engineering_Ethics_and_the_Duty_to_Inform_A_Case_Study_on_US_Hypersonic_Missile_Development.pdf)," _Technology and Society_ 43, 83 (2024)
 
+D. Wright, C.L. Tracy, "[Hypersonic cruise missiles](https://camerontracy.github.io/files/Hypersonic_cruise_missiles.pdf)," _Science & Global Security_ 32, 219 (2024)
+
 D. Wright, C.L. Tracy, “[Hypersonic weapons: Vulnerability to missile defenses and comparison to MaRVs](https://camerontracy.github.io/files/Hypersonic_Weapons_Vulnerability_to_Missile_Defenses_and_Comparison_to_MaRVs.pdf),”
 _Science & Global Security_, 31, 68 (2023)
 
-S. Park, C.L. Tracy, R.C. Ewing, “[Reimagining US rare earth production: Domestic failures and the
-decline of US rare earth production dominance — lessons learned and recommendations](https://camerontracy.github.io/files/Reimagining_US_rare_earth_production_Domestic_failures_and_the_decline_of_US_rare_earth_production_dominance_–_Lessons_learned_and_recommendations.pdf),” _Resources Policy_
+S. Park, C.L. Tracy, R.C. Ewing, “[Reimagining US rare earth production: Domestic failures and the decline of US rare earth production dominance — lessons learned and recommendations](https://camerontracy.github.io/files/Reimagining_US_rare_earth_production_Domestic_failures_and_the_decline_of_US_rare_earth_production_dominance_–_Lessons_learned_and_recommendations.pdf),” _Resources Policy_
 85, 104022 (2023)
 
 C.L. Tracy, D. Wright, “[‘Computational fluid dynamics analysis of the infrared emission from a generic
