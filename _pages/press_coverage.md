@@ -5,7 +5,7 @@ permalink: /press_coverage/
 author_profile: true
 ---
 
-[US losing crucial hypersonic race to China and Russia]([https://www.merkur.de/politik/waffe-ukraine-krieg-putin-raketen-marschflugkoerper-hyperschall-93010803.html](https://asiatimes.com/2025/02/us-losing-crucial-hypersonic-race-to-china-and-russia/)), _Asia Times_, 14 Feb 2025
+[US losing crucial hypersonic race to China and Russia](https://asiatimes.com/2025/02/us-losing-crucial-hypersonic-race-to-china-and-russia/), _Asia Times_, 14 Feb 2025
 
 ['Gefährlicher' als die Kinschal? Russland setzt auf Marschflugkörper mit größerer Reichweite](https://www.merkur.de/politik/waffe-ukraine-krieg-putin-raketen-marschflugkoerper-hyperschall-93010803.html), _Münchner Merkur_, 15 Apr 2024
 
