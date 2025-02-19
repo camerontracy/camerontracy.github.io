@@ -5,6 +5,8 @@ permalink: /press_coverage/
 author_profile: true
 ---
 
+[US losing crucial hypersonic race to China and Russia]([https://www.merkur.de/politik/waffe-ukraine-krieg-putin-raketen-marschflugkoerper-hyperschall-93010803.html](https://asiatimes.com/2025/02/us-losing-crucial-hypersonic-race-to-china-and-russia/)), _Asia Times_, 14 Feb 2025
+
 ['Gefährlicher' als die Kinschal? Russland setzt auf Marschflugkörper mit größerer Reichweite](https://www.merkur.de/politik/waffe-ukraine-krieg-putin-raketen-marschflugkoerper-hyperschall-93010803.html), _Münchner Merkur_, 15 Apr 2024
 
 [Por qué la primera prueba de un misil hipersónico de EE. UU. en el Asia-Pacífico es una advertencia a China](https://elcomercio.pe/mundo/eeuu/estados-unidos-prueba-un-misil-hipersonico-en-el-asia-pacifico-en-una-clara-advertencia-a-china-que-es-un-misil-hipersonico-que-paises-tienen-misiles-hipersonicos-guam-rusia-usa-joe-biden-corea-del-norte-mar-de-china-meridional-bombardero-b-52-islas-marshall-arrw-avangard-noticia/), _El Comercio_, 22 Mar 2024
