@@ -5,6 +5,8 @@ permalink: /press_coverage/
 author_profile: true
 ---
 
+[Hollow HALO: US admits defeat in hypersonic missile program](https://asiatimes.com/2025/04/hollow-halo-us-admits-defeat-in-hypersonic-missile-program/#), _Asia Times_, 21 Apr 2025
+
 [Golden Dome: Smart strategy or risky business?](https://aerospaceamerica.aiaa.org/features/golden-dome-smart-strategy-or-risky-business/), _Aerospace America_, 2 Apr 2025
 
 [Trump’s ‘Iron Dome’ space weapons plan ignores physics and fiscal reality](https://www.scientificamerican.com/article/trumps-iron-dome-space-weapons-plan-ignores-physics-and-fiscal-reality/), _Scientific American_, 19 Feb 2025
