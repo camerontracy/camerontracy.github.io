@@ -9,6 +9,8 @@ author_profile: true
 
 [Golden Dome: Smart strategy or risky business?](https://aerospaceamerica.aiaa.org/features/golden-dome-smart-strategy-or-risky-business/), _Aerospace America_, 2 Apr 2025
 
+[Detecting nuclear radiation at greater distances](https://cen.acs.org/physical-chemistry/nuclear-chemistry/Detecting-nuclear-radiation-greater-distances/103/web/2025/03), _Chemical & Engineering News_, 5 Mar 2025
+
 [Trump’s ‘Iron Dome’ space weapons plan ignores physics and fiscal reality](https://www.scientificamerican.com/article/trumps-iron-dome-space-weapons-plan-ignores-physics-and-fiscal-reality/), _Scientific American_, 19 Feb 2025
 
 [US losing crucial hypersonic race to China and Russia](https://asiatimes.com/2025/02/us-losing-crucial-hypersonic-race-to-china-and-russia/), _Asia Times_, 14 Feb 2025
