@@ -7,7 +7,7 @@ author_profile: true
 
 S. Zhao, H. Xiao, Y. Li, Z. Zhang, Y. Wang, Q. Huang, L. Cao, F. Gao, C.L. Tracy, R.C. Ewing, C. Wang, “[Multi-stage phase transformation pathways in MAX phases](https://camerontracy.github.io/files/Multi_stage_phase_transformation_pathways_in_MAX_phases.pdf),” _Nature Communications_ 16, 1554 (2025)
 
-E.C. O’Quinn, A.P. Solomon, C. Corbridge, C. Overstreet, C.L. Tracy, A.F. Fuentes, D.J. Sprouster, M.K. Lang, “[Response of lanthanide sesquioxides to high-energy ball milling](https://camerontracy.github.io/files/Response_of_Lanthanide_Sesquioxides_to_High_Energy_Ball_Milling.pdf),” _Advanced Engineering Materials_ 2401251 (2024)
+E.C. O’Quinn, A.P. Solomon, C. Corbridge, C. Overstreet, C.L. Tracy, A.F. Fuentes, D.J. Sprouster, M.K. Lang, “[Response of lanthanide sesquioxides to high-energy ball milling](https://camerontracy.github.io/files/Response_of_Lanthanide_Sesquioxides_to_High_Energy_Ball_Milling.pdf),” _Advanced Engineering Materials_ 27, 2401251 (2025)
 
 E.C. O’Quinn, C.L. Tracy, W.F. Cureton, R. Sachan, J.C. Neuefeind, C. Trautmann, M.K. Lang, “[Multiscale investigation of heterogeneous swift heavy ion tracks in stannate pyrochlore](https://camerontracy.github.io/files/Multi-scale_investigation_of_heterogeneous_swift_heavy_ion_tracks_in_stannate_pyrochlore.pdf),” _Journal of Materials
 Chemistry A_ 9, 16982 (2021)
