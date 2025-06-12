@@ -5,12 +5,13 @@ main:
 
   - title: "Publications (physics)"
     url: /publications_physics/
+
+  - title: "Commentary"
+    url: /commentary/
     
   - title: "CV"
     url: /cv/
 
-  - title: "Press coverage"
-    url: /press_coverage/
+  - title: "Press"
+    url: /press/
 
-  - title: "Commentary"
-    url: /commentary/
