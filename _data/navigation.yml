@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications (security, tech. & policy)"
+  - title: "Publications (security, tech., & policy)"
     url: /publications_security/
 
-  - title: "Publications (physics, chem. & engineering)"
+  - title: "Publications (physics, chem., & eng.)"
     url: /publications_physics/
 
   - title: "Commentary"
