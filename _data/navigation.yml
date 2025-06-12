@@ -1,17 +1,17 @@
-try# main links links
+# main links links
 main:
-  - title: "Publications (security, technology, & policy)"
+  - title: "Publications (security)"
     url: /publications_security/
 
-  - title: "Publications"
+  - title: "Publications (physics)"
     url: /publications_physics/
-
-  - title: "Commentary"
-    url: /commentary/
     
   - title: "CV"
     url: /cv/
 
-  - title: "Press"
-    url: /press/
+  - title: "Press coverage"
+    url: /press_coverage/
+
+  - title: "Commentary"
+    url: /commentary/
 
