@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications (security)"
+title: "Publications (security, technology, & policy)"
 permalink: /publications_security/
 author_profile: true
 ---
