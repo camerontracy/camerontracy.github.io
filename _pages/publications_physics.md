@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications (physics)"
+title: "Publications (physics, chemistry, & engineering)"
 permalink: /publications_physics/
 author_profile: true
 ---
