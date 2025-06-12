@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scholar at the [Berkeley Risk and Security Lab](https://brsl.berkeley.edu/) in UC Berkeley's Goldman School of Public Policy. I conduct research and teach on the interface between science, technology, and global security policy.
+I am a Research Scholar at the [Berkeley Risk and Security Lab](https://brsl.berkeley.edu/) in UC Berkeley's Goldman School of Public Policy, where I conduct research and teach on the interface between science, technology, and global security policy.
 
 My research focuses on the development, governance, and implications of military technologies. New technologies can reshape the nature of war, peace, and security. At the same time, sociopolitical forces shape the weapons technologies that nations choose to develop and expectations of their performance. My recent work focuses on the [security implications of hypersonic missile technologies](https://camerontracy.github.io/files/Modeling_the_Performance_of_Hypersonic_Boost-Glide_Missiles.pdf), the [technical challenges of nuclear disarmament](https://camerontracy.github.io/files/Mining_for_the_Bomb_The_Vulnerability_of_Buried_Plutonium_to_Clandestine_Recovery.pdf), and the [roles of scientists and engineers in advising policymakers on technological risks](https://camerontracy.github.io/files/Weapons_Design_Engineering_Ethics_and_the_Duty_to_Inform_A_Case_Study_on_U.S._Hypersonic_Missile_Development.pdf).
 
