@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Press coverage"
-permalink: /press_coverage/
+title: "Press"
+permalink: /press/
 author_profile: true
 ---
 
