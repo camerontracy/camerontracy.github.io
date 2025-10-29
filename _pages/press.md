@@ -7,6 +7,8 @@ author_profile: true
 
 [Hyperschall-hype: USA rüsten mit überschätzter „Dark Eagle“ nach](https://www.merkur.de/politik/hyperschall-hype-usa-ruesten-mit-ueberschaetzter-dark-eagle-nach-93887282.html), _Münchner Merkur_, 18 Aug 2025
 
+[Dark Eagle: US hypersonic deployment has China squawking](https://asiatimes.com/2025/08/dark-eagle-us-hypersonic-deployment-has-china-squawking/), _Asia Times_, 6 Aug 2025
+
 [Hollow HALO: US admits defeat in hypersonic missile program](https://asiatimes.com/2025/04/hollow-halo-us-admits-defeat-in-hypersonic-missile-program/#), _Asia Times_, 21 Apr 2025
 
 [Golden Dome: Smart strategy or risky business?](https://aerospaceamerica.aiaa.org/features/golden-dome-smart-strategy-or-risky-business/), _Aerospace America_, 2 Apr 2025
