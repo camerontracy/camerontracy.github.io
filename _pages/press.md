@@ -5,6 +5,8 @@ permalink: /press/
 author_profile: true
 ---
 
+[China’s latest hypersonic missile morphs at Mach 5](https://asiatimes.com/2025/11/chinas-latest-hypersonic-missile-morphs-at-mach-5/), _Asia Times_, 4 Nov 2025
+
 [Hyperschall-hype: USA rüsten mit überschätzter „Dark Eagle“ nach](https://www.merkur.de/politik/hyperschall-hype-usa-ruesten-mit-ueberschaetzter-dark-eagle-nach-93887282.html), _Münchner Merkur_, 18 Aug 2025
 
 [Dark Eagle: US hypersonic deployment has China squawking](https://asiatimes.com/2025/08/dark-eagle-us-hypersonic-deployment-has-china-squawking/), _Asia Times_, 6 Aug 2025
