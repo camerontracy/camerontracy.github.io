@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Open CV in .pdf format](https://camerontracy.github.io/files/CV_Tracy_Oct2025.pdf)
+[Open CV in .pdf format](https://camerontracy.github.io/files/CV_Tracy_Jan2026.pdf)
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://camerontracy.github.io/files/CV_Tracy_Oct2025.pdf" width="500" height="375">
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://camerontracy.github.io/files/CV_Tracy_Jan2026.pdf" width="500" height="375">
