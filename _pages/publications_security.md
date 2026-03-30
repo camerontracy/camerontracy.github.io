@@ -17,7 +17,7 @@ C.L. Tracy, "[Weapons design, engineering ethics, and the duty to inform: A case
 D. Wright, C.L. Tracy, "[Hypersonic cruise missiles](https://camerontracy.github.io/files/Hypersonic_Cruise_Missiles.pdf)," _Science & Global Security_ 32, 1-3 (2024)
 
 D. Wright, C.L. Tracy, “[Hypersonic weapons: Vulnerability to missile defenses and comparison to MaRVs](https://camerontracy.github.io/files/Hypersonic_Weapons_Vulnerability_to_Missile_Defenses_and_Comparison_to_MaRVs.pdf),”
-_Science & Global Security_, 31, 3 (2023)
+_Science & Global Security_ 31, 3 (2023)
 
 S. Park, C.L. Tracy, R.C. Ewing, “[Reimagining US rare earth production: Domestic failures and the decline of US rare earth production dominance — lessons learned and recommendations](https://camerontracy.github.io/files/Reimagining_US_rare_earth_production_Domestic_failures_and_the_decline_of_US_rare_earth_production_dominance_–_Lessons_learned_and_recommendations.pdf),” _Resources Policy_
 85, A (2023)
