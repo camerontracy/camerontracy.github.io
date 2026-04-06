@@ -7,8 +7,6 @@ author_profile: true
 
 **Hypersonic Glide Vehicle Simulator:** quantiative modeling of the flight of hypersonic boost-glide missiles, enabling calculation of flight speeds, delivery times, and maneuvering capabilities.
 
-To learn about using this tool, see the use manual: 
-
-C.L. Tracy, D. Wright, J. Ly, A. Ding "[Quantification of Hypersonic Missile Capabilities using the Hypersonic Glide Vehicle Simulator: A User Manual](https://camerontracy.github.io/files/HGVS_user_manual.pdf)" (2026)
+To learn about using this tool, see the user manual: [Quantification of Hypersonic Missile Capabilities using the Hypersonic Glide Vehicle Simulator: A User Manual](https://camerontracy.github.io/files/HGVS_user_manual.pdf)
 
 Access this tool at: https://hypersonic-missile-flight-model.onrender.com/
