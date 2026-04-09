@@ -7,8 +7,8 @@ author_profile: true
 
 
 
-C.L. Tracy, “Technological surprise and normalization through use: The tactical and discursive effects of
-new precision strike weapons in the Russo-Ukrainian War,” _Texas National Security Review_ 9, 2 (2026)
+C.L. Tracy, “[Technological surprise and normalization through use: The tactical and discursive effects of
+new precision strike weapons in the Russo-Ukrainian War](https://camerontracy.github.io/files/Technological_surprise_and_normalization_through_use.pdf),” _Texas National Security Review_ 9, 2 (2026)
 
 C.L. Tracy, “[Sociotechnical risks posed by the geologic disposal of weapons plutonium](https://camerontracy.github.io/files/Sociotechnical_risks_posed_by_the_geologic_disposal_of_weapons_plutonium.pdf),” _Bulletin of the Atomic Scientists_ 81, 1 (2025)
 
