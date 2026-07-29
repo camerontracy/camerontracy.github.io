@@ -5,6 +5,8 @@ permalink: /press/
 author_profile: true
 ---
 
+[China in hot pursuit of a wave-skimming hypersonic edge](https://asiatimes.com/2026/06/china-in-hot-pursuit-of-a-wave-skimming-hypersonic-edge/), _Asia Times_, 22 Jun 2026
+
 [China’s latest hypersonic missile morphs at Mach 5](https://asiatimes.com/2025/11/chinas-latest-hypersonic-missile-morphs-at-mach-5/), _Asia Times_, 4 Nov 2025
 
 [Hyperschall-hype: USA rüsten mit überschätzter „Dark Eagle“ nach](https://www.merkur.de/politik/hyperschall-hype-usa-ruesten-mit-ueberschaetzter-dark-eagle-nach-93887282.html), _Münchner Merkur_, 18 Aug 2025
