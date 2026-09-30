@@ -5,7 +5,7 @@ permalink: /press/
 author_profile: true
 ---
 
-[More than half of some US weapons stockpiles used in Iran war, raising concerns about China threat](https://www.foxnews.com/us/half-us-weapons-stockpiles-used-iran-war-raising-concerns-china-threat), _Fox News_, 4 Aug 2026
+<!--  [More than half of some US weapons stockpiles used in Iran war, raising concerns about China threat](https://www.foxnews.com/us/half-us-weapons-stockpiles-used-iran-war-raising-concerns-china-threat), _Fox News_, 4 Aug 2026 -->
 
 [China in hot pursuit of a wave-skimming hypersonic edge](https://asiatimes.com/2026/06/china-in-hot-pursuit-of-a-wave-skimming-hypersonic-edge/), _Asia Times_, 22 Jun 2026
 
